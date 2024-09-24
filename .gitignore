@@ -33,3 +33,4 @@ Thumbs.db
  
 # totp secrets
 accounts.json
+password.json
