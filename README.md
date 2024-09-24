@@ -8,7 +8,7 @@ A simple Node.js application for managing accounts and generating Time-based One
 - Generate TOTP codes
 - Copy OTP codes to clipboard
 - Data stored in a JSON file
-
+- Data encryped with AES-256-CBC
 ## Prerequisites
 
 - Node.js (version 14 or higher)
@@ -19,7 +19,7 @@ A simple Node.js application for managing accounts and generating Time-based One
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/totpjs.git
+   git clone https://github.com/Zach11111/totpjs.git
    cd totpjs
    ```
 
